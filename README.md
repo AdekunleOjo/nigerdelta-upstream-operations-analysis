@@ -48,8 +48,7 @@ The operation maintains an efficiency rate of approximately 91%, with a failure 
 ---
 
 ## 📊 Dashboard Preview
-
-![Oil & Gas Dashboard](images/dashboard.png)
+![nigerdelta upstream operations analysis](https://github.com/AdekunleOjo/nigerdelta-upstream-operations-analysis/blob/main/dashboard_image.png)
 
 *This dashboard provides a comprehensive view of production performance, operational efficiency, and risk indicators across all wells.*
 
